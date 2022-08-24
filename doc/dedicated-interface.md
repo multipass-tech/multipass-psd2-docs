@@ -3,6 +3,7 @@
 1. [Introduction](./dedicated-interface.md#introduction)
    1. [General information](./dedicated-interface.md#general-information)
    2. [Workflow](./dedicated-interface.md#workflow)
+   3. [Get started](./dedicated-interface.md#get-started)
 2. [Actions](./dedicated-interface.md#actions)
    1. [Authorization](./dedicated-interface.md#authorization)
       1. [Init](./dedicated-interface.md#init)
@@ -33,6 +34,16 @@ Account and payments information API endpoints.
 To see procedure flow charts and sequence diagrams that describe API flows, please see the Workflow.
 
 ### Workflow
+
+### Get started
+
+#### Sign up and get access
+Sign up for an account by sending request to `support@multipass.co`, explore our documentation, connect you app to an API.
+#### Develop and test your application
+Use the Sandbox environment to develop and test your app.
+#### Request approval and go live
+Contact us to request production access for your app. After all checks, approval and onboarding you are ready to go live!
+
 
 ## Actions
 
